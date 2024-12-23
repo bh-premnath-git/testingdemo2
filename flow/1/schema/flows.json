@@ -1,0 +1,1 @@
+[{"type": "SimpleHttpOperator", "task_id": "Sensor-SimpleHttpOperator-042944a29", "dependsOn": [], "trigger_rule": "all_success", "method": "GET", "http_conn_id": "http_connection_1", "endpoint": "/api/v1/resource"}]
