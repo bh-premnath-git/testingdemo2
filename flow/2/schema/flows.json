@@ -1,0 +1,1 @@
+[{"task_id": "Sensor-HttpSensor-c5284d2e4", "trigger_rule": "all_success", "method": "GET", "http_conn_id": "http_connection_1", "endpoint": "httpbin.org/", "type": "HttpSensor", "dependsOn": []}]
